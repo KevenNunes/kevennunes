@@ -1,47 +1,9 @@
 ### Olá me chamo Keven 👋
 
-<p> Seja bem vindo(a) </p>
-<style> 
-  body {
+<div> 
+  <p color=#ffffff&line=Olá,+Sejam+bem+vindos(as) </p>
+</div>
 
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    background: #000000;
-
-}
-
-p {
-
-    position: relative;
-    font-family: sans-serif;
-    color: #fff;
-    text-transform: uppercase;
-    font-size: 2em;
-    letter-spacing: 4px;
-    overflow: hidden;
-    background: linear-gradient(90deg, #000000, #fff, #000000); /*define as cores e opacidade do gradiente*/
-    background-repeat: no-repeat;
-    animation: animate 3s linear infinite;
-    background-size: 80%;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: rgba(255, 255, 255, .0);
-
-}
-
-@keyframes animate{
-
-    0% {
-        background-position: -500%;
-    }
-    100% {
-        background-position: 500%;
-    }
-}
-</style>
 - 🔭 Atualmente não estou trabalhando
 - 🌱 Estou estudando Java, Javascript, post, HTML e CSS
 - 📫 Contate-me atraves do E-mail: kevennuness98@gmail.com
@@ -65,4 +27,4 @@ p {
 
 <div>
   <a href="https://www.linkedin.com/in/keven_nunes_silva-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</dv>
+</div>
