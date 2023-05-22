@@ -4,7 +4,7 @@
   <p color=#ffffff&line=Olá,+Sejam+bem+vindos(as) </p>
 </div>
 
-- 🔭 Atualmente não estou trabalhando
+- 🔭 Atualmente trabalhando na área de Implatação
 - 🌱 Estou estudando Java, Kotlin, HTML e CSS
 - 📫 Contate-me atraves do E-mail: kevennuness98@gmail.com
 - 😄 Pronouns: ele/dele
