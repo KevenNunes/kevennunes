@@ -5,7 +5,7 @@
 </div>
 
 - 🔭 Atualmente não estou trabalhando
-- 🌱 Estou estudando Java, Javascript, post, HTML e CSS
+- 🌱 Estou estudando Java, Kotlin, Javascript, HTML e CSS
 - 📫 Contate-me atraves do E-mail: kevennuness98@gmail.com
 - 😄 Pronouns: ele/dele
 
