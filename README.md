@@ -5,7 +5,7 @@
 </div>
 
 - 🔭 Atualmente trabalhando na área de Implatação
-- 🌱 Estou estudando Java, Kotlin, HTML e CSS
+- 🌱 Estou estudando Java e Kotlin
 - 📫 Contate-me atraves do E-mail: kevennuness98@gmail.com
 - 😄 Pronouns: ele/dele
 
